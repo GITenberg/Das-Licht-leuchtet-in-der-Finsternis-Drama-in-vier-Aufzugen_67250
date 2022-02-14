@@ -1,0 +1,41 @@
+_repo: Das-Licht-leuchtet-in-der-Finsternis-Drama-in-vier-Aufzugen_67250
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hess, Adolf
+    alias: Heß, Adolf
+    gutenberg_agent_id: '45558'
+    url: http://www.gutenberg.org/2009/agents/45558
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2022-01-26'
+identifiers:
+  gutenberg: '67250'
+language: de
+pgterms:marc905: 20181028094527tolstoi
+pgterms:marc906: '1912'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Verlag von Philipp Reclam jun.,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into German'
+- GITenberg
+title: 'Das Licht leuchtet in der Finsternis: Drama in vier Aufzügen'
+url: http://www.gutenberg.org/ebooks/67250
