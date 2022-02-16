@@ -6,6 +6,9 @@ contributor:
     alias: Heß, Adolf
     gutenberg_agent_id: '45558'
     url: http://www.gutenberg.org/2009/agents/45558
+covers:
+- cover_type: archival
+  image_path: 67250-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67250#Das-Licht-leuchtet-in-der-Finsternis-Drama-in-vier-Aufzugen
 gutenberg_issued: '2022-01-26'
 identifiers:
   gutenberg: '67250'
